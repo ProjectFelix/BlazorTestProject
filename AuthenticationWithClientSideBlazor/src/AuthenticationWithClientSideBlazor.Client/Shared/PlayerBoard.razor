@@ -1,0 +1,13 @@
+﻿<h3>Player Board</h3>
+<div class="game-board">
+    @for (int i = 0; i < 8; i++)
+    {
+        for (int j = 0; j < 8; j++)
+        {
+            <div class="spot@(letters[i]+j.ToString()) box">@(letters[i] + j.ToString())</div>
+        }
+    }
+</div>
+@code {
+    private string letters = "abcdefgh";
+}

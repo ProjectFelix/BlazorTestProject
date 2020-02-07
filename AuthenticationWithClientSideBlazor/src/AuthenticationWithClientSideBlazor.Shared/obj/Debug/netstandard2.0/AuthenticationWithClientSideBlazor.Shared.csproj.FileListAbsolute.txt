@@ -1,0 +1,8 @@
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\bin\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.deps.json
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\bin\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.dll
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\bin\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.pdb
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\obj\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\obj\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\obj\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.AssemblyInfo.cs
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\obj\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.dll
+C:\Users\James\source\repos\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Shared\obj\Debug\netstandard2.0\AuthenticationWithClientSideBlazor.Shared.pdb
